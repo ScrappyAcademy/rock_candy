@@ -2,6 +2,12 @@
 
 # RockCandy
 
+[![Gem Version](https://badge.fury.io/rb/rock_candy.png)](http://badge.fury.io/rb/rock_candy)
+[![Build Status](https://secure.travis-ci.org/ScrappyAcademy/rock_candy.png?branch=master)](http://travis-ci.org/ScrappyAcademy/rock_candy)
+[![Dependency Status](https://gemnasium.com/ScrappyAcademy/rock_candy.png?travis)](https://gemnasium.com/ScrappyAcademy/rock_candy)
+[![Code Climate](https://codeclimate.com/github/ScrappyAcademy/rock_candy.png)](https://codeclimate.com/github/ScrappyAcademy/rock_candy)
+[![Coverage Status](https://coveralls.io/repos/ScrappyAcademy/rock_candy/badge.png)](https://coveralls.io/r/ScrappyAcademy/rock_candy)
+
 Providing sugary syntax to help crystalize your test/spec structure.
 
 
