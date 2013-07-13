@@ -1,0 +1,6 @@
+--color
+--order rand
+--format <%= ENV['FORMAT'] || :doc %>
+<% if ENV['TAG'] %>
+--tag <%= ENV['TAG'] %>
+<% end %>
