@@ -1,4 +1,4 @@
-[![Stories in Ready](http://badge.waffle.io/scrappyacademy/rock_candy.png)](http://waffle.io/scrappyacademy/rock_candy)  
+[![Stories in Ready](https://badge.waffle.io/scrappyacademy/rock_candy.png)](http://waffle.io/scrappyacademy/rock_candy)  
 ![Rock Candy](http://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Rock-Candy-Sticks.jpg/320px-Rock-Candy-Sticks.jpg)
 
 # RockCandy
