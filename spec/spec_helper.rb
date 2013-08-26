@@ -12,3 +12,6 @@ RSpec.configure do |config|
 
   config.order = 'random'
 end
+
+def wrap_env(opts = {})
+end
