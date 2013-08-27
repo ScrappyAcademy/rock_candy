@@ -1,5 +1,11 @@
 require "rock_candy/version"
+require "rock_candy/helpers"
 
 module RockCandy
-  # Your code goes here...
+end
+
+if defined? RSpec
+  RSpec.configure do |c|
+    c.include RockCandy::Helpers
+  end
 end
