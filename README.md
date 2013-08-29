@@ -7,7 +7,7 @@
 [![Dependency Status](https://gemnasium.com/ScrappyAcademy/rock_candy.png?travis)](https://gemnasium.com/ScrappyAcademy/rock_candy)
 [![Code Climate](https://codeclimate.com/github/ScrappyAcademy/rock_candy.png)](https://codeclimate.com/github/ScrappyAcademy/rock_candy)
 [![Coverage Status](https://coveralls.io/repos/ScrappyAcademy/rock_candy/badge.png)](https://coveralls.io/r/ScrappyAcademy/rock_candy)
-[![Stories in Ready](http://badge.waffle.io/scrappyacademy/rock_candy.png)](http://waffle.io/scrappyacademy/rock_candy)
+[![Stories in Ready](https://badge.waffle.io/scrappyacademy/rock_candy.png)](http://waffle.io/scrappyacademy/rock_candy)
 
 Providing sugary syntax to help crystalize your test/spec structure.
 
