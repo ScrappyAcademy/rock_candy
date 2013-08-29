@@ -9,7 +9,7 @@
 [![Coverage Status](https://coveralls.io/repos/ScrappyAcademy/rock_candy/badge.png)](https://coveralls.io/r/ScrappyAcademy/rock_candy)
 [![Stories in Ready](https://badge.waffle.io/scrappyacademy/rock_candy.png)](http://waffle.io/scrappyacademy/rock_candy)
 
-Providing sugary syntax to help crystalize your test/spec structure.
+Providing sugary syntax to help crystalize your Ruby test/spec structure.
 
 
 ## Installation
@@ -30,9 +30,24 @@ Or install it yourself as:
 
     $ gem install rock_candy
 
+
 ## Usage
 
-TODO: Write usage instructions here
+Using [RockCandy](/) is fairly easy. Just [install](#installation) it.
+
+:triumph: So you got things installed… First off, thanks for using it!!! :heart:
+:yellow_heart: :blue_heart: :purple_heart: :green_heart: :sparkling_heart:
+Awesome :sunglasses: now what?!? Check out our
+[executable documentation](https://www.relishapp.com/ScrappyAcademy/rock-candy)
+(written with Cucumber) for details on how to use the different features.
+
+We currently are supporting [RSpec](https://www.relishapp.com/rspec). Support
+for [MiniTest](http://docs.seattlerb.org/minitest/) is in the works.
+
+If you want support for another testing framework, let us know by opening an
+[issue](https://github.com/ScrappyAcademy/rock_candy/issues).  We can't promise
+we'll add it, but we really want to help out the Ruby community. :heart:
+
 
 ## Contributing
 
