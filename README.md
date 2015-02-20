@@ -14,22 +14,21 @@ Providing sugary syntax to help crystalize your Ruby test/spec structure.
 
 ## Installation
 
-Add this line to your application's Gemfile:
+This gem is not available via RubyGems.
+
+To use the gem, add this line to your application's Gemfile:
 
 ```ruby
 group :test do
-  gem 'rock_candy'
+  gem 'rock_candy', github: 'ScrappyAcademy/rock_candy'
 end
 ```
 
 And then execute:
 
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install rock_candy
-
+```bash
+$ bundle
+```
 
 ## Usage
 
